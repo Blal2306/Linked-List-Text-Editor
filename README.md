@@ -1,1 +1,1 @@
-# Linked-List-Text-Editor
+# Simple Text Editor using Linked List
